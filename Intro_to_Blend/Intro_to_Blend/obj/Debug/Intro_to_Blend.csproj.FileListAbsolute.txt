@@ -1,0 +1,16 @@
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\bin\Debug\Intro_to_Blend.exe.config
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\bin\Debug\Intro_to_Blend.exe
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\bin\Debug\Intro_to_Blend.pdb
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.csproj.AssemblyReference.cache
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.csproj.SuggestedBindingRedirects.cache
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\MainWindow.g.cs
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\App.g.cs
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend_MarkupCompile.cache
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend_MarkupCompile.lref
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\MainWindow.baml
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.g.resources
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.Properties.Resources.resources
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.csproj.GenerateResource.cache
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.csproj.CoreCompileInputs.cache
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.exe
+C:\Users\russe\Desktop\CIT 195\Intro_to_Blend\Intro_to_Blend\obj\Debug\Intro_to_Blend.pdb
