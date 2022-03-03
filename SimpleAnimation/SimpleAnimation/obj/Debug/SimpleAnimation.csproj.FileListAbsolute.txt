@@ -1,0 +1,16 @@
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\bin\Debug\SimpleAnimation.exe.config
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\bin\Debug\SimpleAnimation.exe
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\bin\Debug\SimpleAnimation.pdb
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.csproj.AssemblyReference.cache
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.csproj.SuggestedBindingRedirects.cache
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\MainWindow.g.cs
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\App.g.cs
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation_MarkupCompile.cache
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation_MarkupCompile.lref
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\MainWindow.baml
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.g.resources
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.Properties.Resources.resources
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.csproj.GenerateResource.cache
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.exe
+C:\Users\russe\Desktop\CIT 195\SimpleAnimation\SimpleAnimation\obj\Debug\SimpleAnimation.pdb
