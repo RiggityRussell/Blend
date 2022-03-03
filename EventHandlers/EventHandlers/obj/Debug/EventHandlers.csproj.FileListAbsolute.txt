@@ -1,0 +1,16 @@
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\bin\Debug\EventHandlers.exe.config
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\bin\Debug\EventHandlers.exe
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\bin\Debug\EventHandlers.pdb
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.csproj.AssemblyReference.cache
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.csproj.SuggestedBindingRedirects.cache
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\MainWindow.g.cs
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\App.g.cs
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers_MarkupCompile.cache
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers_MarkupCompile.lref
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\MainWindow.baml
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.g.resources
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.Properties.Resources.resources
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.csproj.GenerateResource.cache
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.exe
+C:\Users\russe\Desktop\CIT 195\EventHandlers\EventHandlers\obj\Debug\EventHandlers.pdb
